@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-Olá! Sou [Seu Nome], um entusiasta da tecnologia e aspirante a desenvolvedor. Este é o meu perfil no GitHub, onde compartilho projetos, aprendizados e colaborações na área de tecnologia.
+Olá! Sou o Vinicius, um entusiasta da tecnologia e aspirante a desenvolvedor. Este é o meu perfil no GitHub, onde compartilho projetos, aprendizados e colaborações na área de tecnologia.
 
 ## Sobre Mim
 
